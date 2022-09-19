@@ -31,5 +31,8 @@ main {
 
 footer {
     grid-area: footer;
-    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    background-color: #76045D;
 }
